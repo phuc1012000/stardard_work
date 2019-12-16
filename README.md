@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Updated Day:
 # ignore file to reuduce push requirements
 .gitignore ignore folders:
@@ -39,3 +40,6 @@ work_need_to_do.ipynb: things need to finish next
 requirements.ipynb : store excact client requirements
 
 #########################
+=======
+# stardard_work
+>>>>>>> 992f5574505d469febbffd8c45fd626291ccd709
